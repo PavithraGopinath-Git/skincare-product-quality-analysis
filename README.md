@@ -149,4 +149,11 @@ This repository will be updated as the data exploration, NLP implementation, mod
 
 ## Author
 
-Developed as a Big Data Analytics and Natural Language Processing project.
+Pavithra Gopinath
+
+This project is being developed as part of the Big Data Analytics (M508) – Natural Language Processing (NLP) Assignment at Gisma University of Applied Sciences.
+
+The project focuses on applying NLP and Machine Learning techniques to identify recurring product quality complaints in skincare customer reviews.
+
+Academic Project: M508 Big Data Analytics
+University: Gisma University of Applied Sciences
